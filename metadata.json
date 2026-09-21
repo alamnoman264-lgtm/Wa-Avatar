@@ -1,0 +1,6 @@
+{
+  "name": "WA Avatar",
+  "description": "Personal AI avatar chat application representing Wasim Akram in Hinglish and Roman Hindi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
